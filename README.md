@@ -3,7 +3,7 @@ to run
 1. first download it
 2. then run this command =>
    ```python
-    pip install > requirements.txt
+    pip install -r requirements.txt
     ```
 4. then run the program, write this command =>
     ```python
